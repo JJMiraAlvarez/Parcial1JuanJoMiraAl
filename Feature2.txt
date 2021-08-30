@@ -1,4 +1,0 @@
-metodo 2
-{
-qué tal
-}
