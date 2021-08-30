@@ -1,4 +1,0 @@
-metodo1
-{
-buenas
-}
